@@ -38,11 +38,9 @@ history, cuisine and culture.
 <img height="auto" width="443px" src ="https://github-readme-stats.vercel.app/api?username=yildizmy&count_private=true&theme=slateorange&show_icons=true&hide_border=false&hide=issues,contribs&bg_color=00000000">
 
 <hr>
-
-
 ![](./profile-3d-contrib/profile-night-view.svg)
-
 <hr>
-<p style="text-align:center">
+
+<p style="text-align:center;margin-top:-20px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=110&&section=footer&animation=twinkling"/>
 </p>
