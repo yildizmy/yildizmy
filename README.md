@@ -36,11 +36,10 @@ history, cuisine and culture.
 
 ### GitHub Stats
 <img height="auto" width="443px" src ="https://github-readme-stats.vercel.app/api?username=yildizmy&count_private=true&theme=slateorange&show_icons=true&hide_border=false&hide=issues,contribs&bg_color=00000000">
-<hr>
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
-<hr style="margin-bottom:-40px">
+<hr>
 <p style="text-align:center">
-  <img style="margin-top:-24px" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=110&&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=110&&section=footer&animation=twinkling"/>
 </p>
