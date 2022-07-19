@@ -41,6 +41,6 @@ history, cuisine and culture.
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 <hr>
-<p style="text-align:center;margin-top:-20px;">
+<p style="text-align:center;margin-top:-40px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=110&&section=footer&animation=twinkling"/>
 </p>
