@@ -8,7 +8,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=yildizmy&style=flat&label=Profile%20views)](#/)&nbsp;&nbsp;
 [![Followers](https://img.shields.io/github/followers/yildizmy.svg?style=social&label=Follow)](https://github.com/yildizmy?tab=followers)&nbsp;&nbsp;
 
-<br/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&center=false&color=EF8236&size=25&height=40&lines=Hello+world!;¡Hola+mundo!;Hallo+wereld!;Merhaba+dünya!;Привіт+світ!;Ciao+mondo!;Hallo+welt!;Bonjour+monde!;Helló+világ!;Γειά+σου+κόσμε!;Hei+maailma!;こんにちは世界！;Witaj+świecie!;Hej+världen!;Tere+maailm!)](#%)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&size=25&duration=4500&color=EF8236&center=false&vCenter=true&height=40&lines=Hello+world!;¡Hola+mundo!;Hallo+wereld!;Merhaba+dünya!;Привіт+світ!;Ciao+mondo!;Hallo+welt!;नमस्ते+दुनिया!;Bonjour+monde!;Helló+világ!;Γειά+σου+κόσμε!;Hei+maailma!;こんにちは世界！;Witaj+świecie!;Hej+världen!;Tere+maailm!)](#%)
 
 I am Software Engineer having experience in developing web applications using Java, C#, Spring Boot, .NET Core, Angular,
 PostgreSQL, etc. Also interested in some trending technologies e.g. React, Microservices, NoSQL Database
