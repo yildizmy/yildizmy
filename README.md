@@ -22,7 +22,7 @@ history, cuisine and culture.
 
 ### Technologies and Tools
 <p align="left">
-  <a><img src="https://skillicons.dev/icons?i=java,cs,spring,hibernate,maven,dotnet,js,ts,angular,react,html,css,postgres,mysql,mongo,git,github,gitlab,docker,azure,idea,eclipse,vscode,sqlite&perline=12" /></a>
+  <a href="#!"><img src="https://skillicons.dev/icons?i=java,cs,spring,hibernate,maven,dotnet,js,ts,angular,react,html,css,postgres,mysql,mongo,git,github,gitlab,docker,azure,idea,eclipse,vscode,sqlite&perline=12" /></a>
 </p>
 <br/>
 
@@ -32,9 +32,9 @@ history, cuisine and culture.
 
 
 ### GitHub Stats
-<img height="auto" width="443px" src ="https://github-readme-stats.vercel.app/api?username=yildizmy&count_private=true&theme=slateorange&show_icons=true&hide_border=false&hide=&bg_color=00000000">
+<a href="#/"><img height="auto" width="443px" src ="https://github-readme-stats.vercel.app/api?username=yildizmy&count_private=true&theme=slateorange&show_icons=true&hide_border=false&hide=&bg_color=00000000"></a>
 
-[![GitHub Stats](./profile-3d-contrib/profile-night-view.svg)](#/)
+[![GitHub Stats](./profile-3d-contrib/profile-night-view.svg)](#!)
 <hr>
 
 <p style="text-align:center">
