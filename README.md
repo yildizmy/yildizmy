@@ -36,13 +36,14 @@ history, cuisine and culture.
 
 [//]: # (<span style="margin-left:-32px">![Stackoverflow Card]&#40;https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=1604048&theme=dark&#41;</span>)
 
-![Stackoverflow Card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=1604048&theme=dark)
-
+<p style="text-align:left">
+[![Stackoverflow Stats](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=1604048&theme=dark)]()
+</p>
 
 ### GitHub Stats
 <img height="auto" width="443px" src ="https://github-readme-stats.vercel.app/api?username=yildizmy&count_private=true&theme=slateorange&show_icons=true&hide_border=false&hide=issues,contribs&bg_color=00000000">
 
-![](./profile-3d-contrib/profile-night-view.svg)
+[![GitHub Stats](./profile-3d-contrib/profile-night-view.svg)]()
 
 <hr>
 <p style="text-align:center">
