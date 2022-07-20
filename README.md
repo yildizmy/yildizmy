@@ -1,11 +1,11 @@
-<img src='images/header_01.png' alt="header"></img>
+<a><img src='images/header_01.png' alt="header"></img></a>
 <hr/>
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yildizmy)&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yildizmy@gmail.com)&nbsp;&nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yildizmurat)&nbsp;&nbsp;
 [![StackOverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/1604048?style=flat&logo=stackoverflow&color=orange&label=StackOverflow)](https://stackoverflow.com/users/1604048/murat-y%c4%b1ld%c4%b1z?tab=profile)&nbsp;&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=yildizmy&style=flat&label=Profile%20views)](#)&nbsp;&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=yildizmy&style=flat&label=Profile%20views)](#/)&nbsp;&nbsp;
 [![Followers](https://img.shields.io/github/followers/yildizmy.svg?style=social&label=Follow)](https://github.com/yildizmy?tab=followers)&nbsp;&nbsp;
 
 <br/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&center=false&color=EF8236&size=25&height=40&lines=Hello+world!;¡Hola+mundo!;Hallo+wereld!;Merhaba+dünya!;Привіт+світ!;Ciao+mondo!;Hallo+welt!;Bonjour+monde!;Helló+világ!;Γειά+σου+κόσμε!;Hei+maailma!;こんにちは世界！;Witaj+świecie!;Hej+världen!;Tere+maailm!)](#)
@@ -22,9 +22,7 @@ history, cuisine and culture.
 
 ### Technologies and Tools
 <p align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,cs,spring,hibernate,maven,dotnet,js,ts,angular,react,html,css,postgres,mysql,mongo,git,github,gitlab,docker,azure,idea,eclipse,vscode,sqlite&perline=12" />
-  </a>
+  <a><img src="https://skillicons.dev/icons?i=java,cs,spring,hibernate,maven,dotnet,js,ts,angular,react,html,css,postgres,mysql,mongo,git,github,gitlab,docker,azure,idea,eclipse,vscode,sqlite&perline=12" /></a>
 </p>
 <br/>
 
@@ -36,9 +34,9 @@ history, cuisine and culture.
 ### GitHub Stats
 <img height="auto" width="443px" src ="https://github-readme-stats.vercel.app/api?username=yildizmy&count_private=true&theme=slateorange&show_icons=true&hide_border=false&hide=&bg_color=00000000">
 
-[![GitHub Stats](./profile-3d-contrib/profile-night-view.svg)](#)
+[![GitHub Stats](./profile-3d-contrib/profile-night-view.svg)](#/)
 <hr>
 
 <p style="text-align:center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=110&&section=footer&animation=twinkling"/>
+  <a><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=110&&section=footer&animation=twinkling"/></a>
 </p>
