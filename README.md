@@ -38,5 +38,5 @@ history, cuisine and culture.
 <hr>
 
 <p style="text-align:center">
-  <a><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=110&&section=footer&animation=twinkling"/></a>
+  <a href="#!"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=110&&section=footer&animation=twinkling"/></a>
 </p>
