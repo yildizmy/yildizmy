@@ -47,7 +47,7 @@ history, cuisine and culture.
 [![Stackoverflow Stats](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=1604048&theme=dark)]()
 
 ### GitHub Stats
-<img height="auto" width="443px" src ="https://github-readme-stats.vercel.app/api?username=yildizmy&count_private=true&theme=slateorange&show_icons=true&hide_border=false&hide=issues,contribs&bg_color=00000000">
+<img height="auto" width="443px" src ="https://github-readme-stats.vercel.app/api?username=yildizmy&count_private=true&theme=slateorange&show_icons=true&hide_border=false&hide=&bg_color=00000000">
 
 [![GitHub Stats](./profile-3d-contrib/profile-night-view.svg)]()
 
