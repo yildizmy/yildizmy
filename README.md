@@ -1,7 +1,6 @@
 <img src='images/header_01.png' alt="header"></img>
 <hr/>
 
-
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yildizmy)&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yildizmy@gmail.com)&nbsp;&nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yildizmurat)&nbsp;&nbsp;
@@ -21,31 +20,23 @@ history, cuisine and culture.
 
 <br/>
 
-
 ### Technologies and Tools
 <p>
 <img src="https://skillicons.dev/icons?i=java,cs,spring,hibernate,maven,dotnet,js,ts,angular,react,html,css,postgres,mysql,mongo,git,github,gitlab,docker,azure,idea,eclipse,vscode,sqlite&perline=12" />
 </p>
-
 <br/>
 
-
 ### Stackoverflow Stats
-
 [//]: # (<a href="https://www.stackoverflow.com/users/1604048/murat-yıldız" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="64" height="64" /></a>&nbsp;&nbsp;&nbsp;[![StackOverflow]&#40;https://github-readme-stackoverflow.vercel.app/?userID=1604048&layout=compact&theme=dark&#41;]&#40;https://stackoverflow.com/users/1604048/murat-yıldız&#41;)
 [![Stackoverflow Card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=1604048&theme=dark)](https://www.stackoverflow.com/users/1604048/murat-yıldız)
-
-
-
-
 
 
 ### GitHub Stats
 <img height="auto" width="443px" src ="https://github-readme-stats.vercel.app/api?username=yildizmy&count_private=true&theme=slateorange&show_icons=true&hide_border=false&hide=&bg_color=00000000">
 
 [![GitHub Stats](./profile-3d-contrib/profile-night-view.svg)]()
-
 <hr>
+
 <p style="text-align:center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=110&&section=footer&animation=twinkling"/>
 </p>
