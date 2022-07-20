@@ -1,14 +1,14 @@
-<a href="#/"><img src='images/header_01.png' alt="header"></img></a>
+<a href="#!"><img src='images/header_01.png' alt="header"></img></a>
 <hr/>
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yildizmy)&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yildizmy@gmail.com)&nbsp;&nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yildizmurat)&nbsp;&nbsp;
 [![StackOverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/1604048?style=flat&logo=stackoverflow&color=orange&label=StackOverflow)](https://stackoverflow.com/users/1604048/murat-y%c4%b1ld%c4%b1z?tab=profile)&nbsp;&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=yildizmy&style=flat&label=Profile%20views)](#/)&nbsp;&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=yildizmy&style=flat&label=Profile%20views)](#!)&nbsp;&nbsp;
 [![Followers](https://img.shields.io/github/followers/yildizmy.svg?style=social&label=Follow)](https://github.com/yildizmy?tab=followers)&nbsp;&nbsp;
 
-<br/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&center=false&color=EF8236&size=25&height=40&lines=Hello+world!;¡Hola+mundo!;Hallo+wereld!;Merhaba+dünya!;Привіт+світ!;Ciao+mondo!;Hallo+welt!;Bonjour+monde!;Helló+világ!;Γειά+σου+κόσμε!;Hei+maailma!;こんにちは世界！;Witaj+świecie!;Hej+världen!;Tere+maailm!)](#)
+<br/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&center=false&color=EF8236&size=25&height=40&lines=Hello+world!;¡Hola+mundo!;Hallo+wereld!;Merhaba+dünya!;Привіт+світ!;Ciao+mondo!;Hallo+welt!;Bonjour+monde!;Helló+világ!;Γειά+σου+κόσμε!;Hei+maailma!;こんにちは世界！;Witaj+świecie!;Hej+världen!;Tere+maailm!)](#!)
 
 I am Software Engineer having experience in developing web applications using Java, C#, Spring Boot, .NET Core, Angular,
 PostgreSQL, etc. Also interested in some trending technologies e.g. React, Microservices, NoSQL Database
@@ -32,7 +32,7 @@ history, cuisine and culture.
 
 
 ### GitHub Stats
-<a href="#/"><img height="auto" width="443px" src ="https://github-readme-stats.vercel.app/api?username=yildizmy&count_private=true&theme=slateorange&show_icons=true&hide_border=false&hide=&bg_color=00000000"></a>
+<a href="#!"><img height="auto" width="443px" src ="https://github-readme-stats.vercel.app/api?username=yildizmy&count_private=true&theme=slateorange&show_icons=true&hide_border=false&hide=&bg_color=00000000"></a>
 
 [![GitHub Stats](./profile-3d-contrib/profile-night-view.svg)](#!)
 <hr>
