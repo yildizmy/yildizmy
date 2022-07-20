@@ -26,12 +26,14 @@ history, cuisine and culture.
 <p>
 <img src="https://skillicons.dev/icons?i=java,cs,spring,hibernate,maven,dotnet,js,ts,angular,react,html,css,postgres,mysql,mongo,git,github,gitlab,docker,azure,idea,eclipse,vscode,sqlite&perline=12" />
 </p>
+
 <br/>
 
 
 ### Stackoverflow Stats
 
 [//]: # (<a href="https://www.stackoverflow.com/users/1604048/murat-yıldız" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="64" height="64" /></a>&nbsp;&nbsp;&nbsp;[![StackOverflow]&#40;https://github-readme-stackoverflow.vercel.app/?userID=1604048&layout=compact&theme=dark&#41;]&#40;https://stackoverflow.com/users/1604048/murat-yıldız&#41;)
+
 <span style="margin-left:-12px">![Stackoverflow Card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=1604048&theme=dark)</span>
 
 
