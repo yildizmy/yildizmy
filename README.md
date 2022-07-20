@@ -21,7 +21,7 @@ history, cuisine and culture.
 <br/>
 
 ### Technologies and Tools
-<p align="left">
+<p style="text-align:left">
   <a href="#&"><img src="https://skillicons.dev/icons?i=java,cs,spring,hibernate,maven,dotnet,js,ts,angular,react,html,css,postgres,mysql,mongo,git,github,gitlab,docker,azure,idea,eclipse,vscode,sqlite&perline=12" /></a>
 </p>
 <br/>
