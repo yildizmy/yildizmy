@@ -39,13 +39,7 @@ history, cuisine and culture.
 
 [//]: # (<span style="margin-left:-32px">![Stackoverflow Card]&#40;https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=1604048&theme=dark&#41;</span>)
 
-[//]: # (<div style="text-align:left">)
-    
-
-[//]: # (</div>)
-
-
-[![Stackoverflow Stats](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=1604048&theme=dark)]()
+<span style="margin-left:-32px">![Stackoverflow Card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=1604048&theme=dark)</span>
 
 
 ### GitHub Stats
