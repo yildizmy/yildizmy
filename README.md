@@ -35,7 +35,7 @@ history, cuisine and culture.
 <a href="#?"><img height="auto" width="443px" src ="https://github-readme-stats.vercel.app/api?username=yildizmy&count_private=true&theme=slateorange&show_icons=true&hide_border=false&hide=&bg_color=00000000"></a>
 
 [![GitHub Stats](./profile-3d-contrib/profile-night-view.svg)](#=)
-<hr>
+<hr style="margin-bottom:-30px">
 
 <p style="text-align:center">
   <a href="#*"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=110&&section=footer&animation=twinkling"/></a>
