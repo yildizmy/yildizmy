@@ -33,7 +33,7 @@ history, cuisine and culture.
 
 
 ### GitHub Stats
-<a href="#?"><img height="auto" width="443px" src ="https://github-readme-stats.vercel.app/api?username=yildizmy&count_private=true&theme=slateorange&show_icons=true&hide_border=false&hide=&bg_color=00000000"></a>
+<a href="#?"><img height="auto" width="443px" src ="https://github-readme-stats.vercel.app/api?username=yildizmy&count_private=true&theme=slateorange&show_icons=true&hide_border=false&hide=&bg_color=2A2A2A"></a>
 
 [![GitHub Stats](./profile-3d-contrib/profile-night-view.svg)](#=)
 <hr>
