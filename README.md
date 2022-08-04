@@ -11,13 +11,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&size=25&duration=4500&color=EF8236&center=false&vCenter=true&height=40&lines=Hello+world!;¡Hola+mundo!;Hallo+wereld!;Merhaba+dünya!;Привіт+світ!;Ciao+mondo!;Hallo+welt!;नमस्ते+दुनिया!;Bonjour+monde!;Helló+világ!;Γειά+σου+κόσμε!;Hei+maailma!;こんにちは世界！;Witaj+świecie!;Hej+världen!;Tere+maailm!)](#%)
 
-I am Software Engineer having experience in developing web applications using Java, C#, Spring Boot, .NET Core, Angular,
-PostgreSQL, etc. Also interested in some trending technologies e.g. React, Microservices, NoSQL Database
-Systems (MongoDB, Redis), Message Brokers (RabbitMQ, Kafka) and Distributed Systems.
+Software Engineer having experience in developing web applications using Java, C#, Spring Boot, .NET Core, Angular, PostgreSQL, etc. Also interested in some trending technologies e.g. React, Microservices, NoSQL Database Systems (MongoDB, Redis), Message Brokers (RabbitMQ, Kafka) and Distributed Systems.
 
-I am passionate about software development and spend some free time for learning new technologies and developing some apps
-by using these technologies. I like travelling, meeting new people, learning languages and new things; particularly
-history, cuisine and culture.
+Passionate about software development and spends some free time for learning new technologies and developing some apps by using these technologies. Likes travelling, meeting new people, learning languages and new things; particularly history, cuisine and culture.
 
 <br/>
 
