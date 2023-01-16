@@ -29,7 +29,7 @@ Passionate about software development and spends some free time for learning new
 
 
 ### GitHub Stats
-<a href="#?"><img height="auto" width="443px" src ="https://github-readme-stats.vercel.app/api?username=yildizmy&count_private=true&theme=slateorange&show_icons=true&hide_border=false&hide=&bg_color=2A2A2A&include_all_commits=true"></a>
+<a href="#?"><img height="auto" width="443px" src ="https://github-readme-stats-ruby-one.vercel.app/api?username=yildizmy&count_private=true&theme=slateorange&show_icons=true&hide_border=false&hide=&bg_color=2A2A2A&include_all_commits=true"></a>
 
 [![GitHub Stats](./profile-3d-contrib/profile-night-view.svg)](#=)
 <hr>
