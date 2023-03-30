@@ -9,7 +9,7 @@
 [![Stars](https://custom-icon-badges.herokuapp.com/github/stars/yildizmy?color=55960c&labelColor=488207&style=social&logo=star&logoColor=black&label=Stars)](https://github.com/yildizmy?tab=repositories&sort=stargazers)&nbsp;&nbsp;
 [![Followers](https://custom-icon-badges.herokuapp.com/github/followers/yildizmy?color=236ad3&labelColor=1155ba&style=social&logo=github&logoColor=black&label=Follow)](https://github.com/yildizmy?tab=followers)&nbsp;&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&size=25&duration=2000&color=EF8236&center=false&vCenter=true&height=40&lines=Hello+world!;¡Hola+mundo!;Hallo+wereld!;Merhaba+dünya!;Zdravo+svijete!;Привіт+світ!;Ciao+mondo!;Hallo+welt!;नमस्ते+दुनिया!;Bonjour+monde!;Helló+világ!;Γειά+σου+κόσμε!;Hei+maailma!;こんにちは世界！;Witaj+świecie!;Hej+världen!;Tere+maailm!)](#%)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&size=25&duration=2000&color=EF8236&center=false&vCenter=true&height=40&lines=Hello+world!;¡Hola+mundo!;Hallo+wereld!;Tere+maailm!;Merhaba+dünya!;Zdravo+svijete!;Привіт+світ!;Ciao+mondo!;Hallo+welt!;नमस्ते+दुनिया!;Bonjour+monde!;Helló+világ!;Γειά+σου+κόσμε!;Hei+maailma!;こんにちは世界！;Witaj+świecie!;Hej+världen!)](#%)
 
 Software Engineer having experience in developing web applications using Java, C#, Spring Boot, React, Angular, PostgreSQL, etc. Also interested in some trending technologies e.g. Microservices, Message Brokers (RabbitMQ, Kafka), NoSQL Database Systems (MongoDB, Redis) and Distributed Systems.
 
