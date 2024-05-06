@@ -18,7 +18,7 @@ Passionate about problem solving, clean code and scalable architecture. Spends s
 <br/>
 
 ### Technologies and Tools
-<a href="#&"><img src="https://skillicons.dev/icons?i=react,js,java,kotlin,spring,hibernate,kafka,redis,git,github,gitlab,bitbucket,openshift,docker,jenkins,grafana,postgres,mysql,mongo,postman,gradle,maven,idea,vscode,&perline=12" /></a>
+<a href="#&"><img src="https://skillicons.dev/icons?i=java,kotlin,react,js,spring,hibernate,kafka,redis,git,github,gitlab,bitbucket,openshift,docker,jenkins,grafana,postgres,mysql,mongo,postman,gradle,maven,idea,vscode,&perline=12" /></a>
 <br/>
 
 ### Stackoverflow Stats
