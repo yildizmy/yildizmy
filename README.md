@@ -11,9 +11,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&size=25&duration=2000&color=EF8236&center=false&vCenter=true&height=40&lines=Hello+world!;¡Hola+mundo!;Hallo+wereld!;Hallo+welt!;Tere+maailm!;Merhaba+dünya!;Zdravo+svijete!;Привіт+світ!;Ciao+mondo!;नमस्ते+दुनिया!;Bonjour+monde!;Helló+világ!;Γειά+σου+κόσμε!;Hei+maailma!;こんにちは世界！;Witaj+świecie!;Hej+världen!)](#%)
 
-Software Engineer having experience in building robust, scalable systems that power businesses using React, Java, Kotlin, Spring Boot, Microservices, Kafka, Docker, PostgreSQL, etc. Also interested in some other technologies e.g. Kubernetes, Cloud and Distributed Systems.
+Software Engineer having experience in building robust, scalable systems that power businesses using React, Java, Kotlin, Spring Boot, Microservices, Kafka, Docker, PostgreSQL, etc. Also interested in some other technologies e.g. Cloud Computing and Distributed Systems.
 
-Passionate about problem solving, clean code and scalable architecture. Spends some free time for learning new technologies and developing some apps by using these technologies. Likes travelling, meeting new people, learning languages and new things; particularly history, cuisine and culture.
+Passionate about problem solving, clean code and scalable architecture. Spends some free time for learning new technologies and developing some apps by using these technologies. Likes travelling, meeting new people, sharing knowledge, learning languages and new things; particularly history, cuisine and culture.
 
 <br/>
 
