@@ -2,12 +2,12 @@
 <hr/>
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yildizmy)&nbsp;&nbsp;
-<!--- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:#)&nbsp;&nbsp; -->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yildizmurat)&nbsp;&nbsp;
 [![StackOverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/1604048?style=flat&logo=stackoverflow&color=orange&label=StackOverflow)](https://stackoverflow.com/users/1604048/murat-y%c4%b1ld%c4%b1z?tab=profile)&nbsp;&nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=yildizmy&style=flat&color=green&label=Profile+views)](#/)&nbsp;&nbsp;
 [![Stars](https://custom-icon-badges.herokuapp.com/github/stars/yildizmy?color=55960c&labelColor=488207&style=social&logo=star&logoColor=black&label=Stars)](https://github.com/yildizmy?tab=repositories&sort=stargazers)&nbsp;&nbsp;
 [![Followers](https://custom-icon-badges.herokuapp.com/github/followers/yildizmy?color=236ad3&labelColor=1155ba&style=social&logo=github&logoColor=black&label=Follow)](https://github.com/yildizmy?tab=followers)&nbsp;&nbsp;
+<!--- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:#) -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&size=25&duration=2000&color=EF8236&center=false&vCenter=true&height=40&lines=Hello+world!;¡Hola+mundo!;Hallo+wereld!;Hallo+welt!;Tere+maailm!;Merhaba+dünya!;Zdravo+svijete!;Привіт+світ!;Ciao+mondo!;नमस्ते+दुनिया!;Bonjour+monde!;Helló+világ!;Γειά+σου+κόσμε!;Hei+maailma!;こんにちは世界！;Witaj+świecie!;Hej+världen!)](#%)
 
