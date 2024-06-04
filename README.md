@@ -18,8 +18,9 @@ Passionate about problem solving, clean code and scalable architecture. Spends s
 <br/>
 
 ### Technologies and Tools
-<a href="#&"><img src="https://skillicons.dev/icons?i=java,kotlin,react,js,spring,hibernate,kafka,redis,git,github,gitlab,bitbucket,docker,openshift,jenkins,grafana,postgres,mysql,mongo,postman,gradle,maven,idea,vscode,&perline=12" /></a>
+![Technologies and Tools](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,react,js,spring,hibernate,kafka,redis,git,github,gitlab,bitbucket,docker,openshift,jenkins,grafana,postgres,mysql,oracle,sqlserver,mongo,postman,gradle,maven,idea,vscode,&perline=13&theme=dark)
 <br/>
+
 
 ### Stackoverflow Stats
 [//]: # (<a href="https://www.stackoverflow.com/users/1604048/murat-yıldız" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="64" height="64" /></a>&nbsp;&nbsp;&nbsp;[![StackOverflow]&#40;https://github-readme-stackoverflow.vercel.app/?userID=1604048&layout=compact&theme=dark&#41;]&#40;https://stackoverflow.com/users/1604048/murat-yıldız&#41;)
