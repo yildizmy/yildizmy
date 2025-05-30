@@ -2,7 +2,6 @@
 <hr/>
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yildizmy)&nbsp;&nbsp;
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yildizmurat)&nbsp;&nbsp;
 [![StackOverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/1604048?style=flat&logo=stackoverflow&color=orange&label=StackOverflow)](https://stackoverflow.com/users/1604048/murat-y%c4%b1ld%c4%b1z?tab=profile)&nbsp;&nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=yildizmy&style=flat&color=green&label=Profile+views)](#/)&nbsp;&nbsp;
 [![Stars](https://custom-icon-badges.herokuapp.com/github/stars/yildizmy?color=55960c&labelColor=488207&style=social&logo=star&logoColor=black&label=Stars)](https://github.com/yildizmy?tab=repositories&sort=stargazers)&nbsp;&nbsp;
